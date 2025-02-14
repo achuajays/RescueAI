@@ -1,6 +1,6 @@
 # 🚨 RescueAI
 
-![AI-Powered Emergency Call Triage & Auto-Response System](assets/banner.png)
+![AI-Powered Emergency Call Triage & Auto-Response System](banner.png)
 
 ## 📌 Overview
 The **AI-Powered Emergency Call Triage & Auto-Response System** is an intelligent solution designed to **analyze emergency calls in real time, assess urgency, and automatically trigger necessary responses**. By leveraging AI, this system enhances emergency response efficiency, reduces delays, and ensures critical cases receive immediate attention.
